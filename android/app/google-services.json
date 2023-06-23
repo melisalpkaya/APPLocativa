@@ -1,0 +1,78 @@
+{
+  "project_info": {
+    "project_number": "733958501984",
+    "project_id": "locativa-app-deneme",
+    "storage_bucket": "locativa-app-deneme.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733958501984:android:6211a640d738278decf505",
+        "android_client_info": {
+          "package_name": "com.example.locativa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "733958501984-567k9ksmni98ihievkhld69nv799f62k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.locativa",
+            "certificate_hash": "96f63a4e1bcf2f4d0d605f37f9159cf58869dee5"
+          }
+        },
+        {
+          "client_id": "733958501984-b29vatura09dni8cue6he9janp9s9i49.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.locativa",
+            "certificate_hash": "9a9abc9610955f4eca55ed5adf8f4678deb42514"
+          }
+        },
+        {
+          "client_id": "733958501984-ij15qqq1r0ts6thvpdq44ib2ktp99d99.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.locativa",
+            "certificate_hash": "c68e9e8e06084540b79db79f15b611bb190569ea"
+          }
+        },
+        {
+          "client_id": "733958501984-r9a7m06rpnqqhpsuhklbkp9ep7vvb3r2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.locativa",
+            "certificate_hash": "b54efcc4948731259aa47da939d6292b9bf1fe79"
+          }
+        },
+        {
+          "client_id": "733958501984-uugrr9s4f229g2hchnbv5j88jjpei88b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmkhc0o83QiAzaWbMU3jHMBSHeCDWZu2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "733958501984-uugrr9s4f229g2hchnbv5j88jjpei88b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "733958501984-ahj6net9b7an5df27s0ugn2lfkcvvdqa.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.deneme"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
