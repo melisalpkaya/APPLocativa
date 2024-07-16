@@ -1,7 +1,11 @@
 It is a mobile application that enables the notifying of malfunctions and requests within the organization, and the systematic assignment and follow-up of the notified malfunctions among the internal employees.
+
 ->  GPS and WIFI hybrid model has been developed in dart language using flutter.
+
 -> A user-friendly interface has been developed using Material Design principles.
+
 Mobile Demo Screens:
+
 ![Locativa (1)](https://github.com/user-attachments/assets/bf7e79b4-5189-4a8c-890a-e4fbec41d9ee)
 ![Locativa (2)](https://github.com/user-attachments/assets/a63f412a-a7d7-4bb7-8af3-68cf36a152ab)
 ![Locativa (3)](https://github.com/user-attachments/assets/50e1c832-1862-4557-9533-bb88912e5cd6)
